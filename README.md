@@ -174,7 +174,6 @@ The application uses **PostgreSQL** with the following main tables:
 - Favorites
 - Floating Music Player
 
-*(Screenshots can be added here later.)*
 
 
 ## 🎯 Learning Outcomes
@@ -197,10 +196,7 @@ Buildience with:
 
 ## 👨‍💻 Author
 
-**Paridhi Dua**
-B.Tech Computering this project provided hands-on exper Science Student
-
-- [LinkedIn](https://www.linkedin.com/in/paridhidua/)
+- [Paridhi Dua](https://www.linkedin.com/in/paridhidua/)
 
 
 ---
