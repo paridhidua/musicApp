@@ -23,8 +23,6 @@ Upload and organize your music library, create playlists, mark favorites, browse
 - [Installation](#-installation)
 - [Database](#-database)
 - [Screens](#-screens)
-- [Security](#-security)
-- [Future Improvements](#-future-improvements)
 - [Learning Outcomes](#-learning-outcomes)
 - [Author](#-author)
 - [License](#-license)
@@ -178,47 +176,10 @@ The application uses **PostgreSQL** with the following main tables:
 
 *(Screenshots can be added here later.)*
 
----
-
-## 🔒 Security
-
-**Current Features**
-- SQL injection protection via parameterized PostgreSQL queries
-- Backend file upload handling with Multer
-- React frontend communicates through REST APIs
-
-**Planned Improvements**
-- User authentication
-- JWT authorization
-- HTTPS deployment
-- Cloud storage for songs
-- Rate limiting
-- Helmet.js
-- Input validation
-- Password hashing (bcrypt)
-
----
-
-## 📈 Future Improvements
-
-- Shuffle mode
-- Repeat mode
-- Lyrics support
-- Recently played
-- Queue management
-- Dark / light theme
-- Artist pages
-- User accounts
-- Cloud sync
-- Mobile app
-- Apple CarPlay support
-- Android Auto support
-
----
 
 ## 🎯 Learning Outcomes
 
-Building this project provided hands-on experience with:
+Buildience with:
 
 - React Hooks
 - React Context API
@@ -237,7 +198,7 @@ Building this project provided hands-on experience with:
 ## 👨‍💻 Author
 
 **Paridhi Dua**
-B.Tech Computer Science Student
+B.Tech Computering this project provided hands-on exper Science Student
 
 - [LinkedIn](https://www.linkedin.com/in/paridhidua/)
 
