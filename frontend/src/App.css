@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  background: #0f0f12;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.app {
+  display: flex;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1;
+  padding: 40px;
+}
+
+.content h1 {
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+
+.songs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 25px;
+  margin-top: 30px;
+}
+
+.song-card {
+  background: #1c1c1e;
+  border-radius: 20px;
+  overflow: hidden;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.song-card:hover {
+  transform: scale(1.03);
+}
+
+.song-card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+.song-card h3,
+.song-card p {
+  padding-left: 15px;
+}
+
+.song-card button {
+  margin: 15px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+}
