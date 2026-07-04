@@ -239,8 +239,8 @@ Building this project provided hands-on experience with:
 **Paridhi Dua**
 B.Tech Computer Science Student
 
-- LinkedIn: *(add your LinkedIn URL)*
-- GitHub: *(add your GitHub URL)*
+- [LinkedIn](https://www.linkedin.com/in/paridhidua/)
+
 
 ---
 
